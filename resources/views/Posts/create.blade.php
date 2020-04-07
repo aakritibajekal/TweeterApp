@@ -17,6 +17,10 @@ Create a Post
     <label for="content">
         <strong> What is on your mind? </strong>
         <textarea class="form-control" name="content" id="content" cols="30" rows="10"></textarea>
+        <label>Mood:
+        <textarea class="form-mood" name="mood" id="mood" cols="30" rows="10">
+        </textarea>
+        </label>
     </label>
     </div>
 
